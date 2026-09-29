@@ -1,0 +1,1154 @@
+{
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=0zFfcEr1e9U",
+      "video_id": "0zFfcEr1e9U",
+      "title": "Unknown Title",
+      "status": "COMPLETED",
+      "progress_percent": 100.0,
+      "downloaded_bytes": 273685737,
+      "total_bytes": 273685737,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "/home/beast/Projects/Softwares/Youtube_video_download/downloads/Jev by TypeSafe AI ｜ What is a System-1 Decision Model ｜ CampusX [0zFfcEr1e9U].mp4",
+      "video_details": {
+        "resolution": "N/A",
+        "fps": null,
+        "vcodec": "N/A",
+        "format": "N/A"
+      },
+      "audio_details": {
+        "acodec": "N/A",
+        "abr": "N/A",
+        "quality": "N/A"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T20:35:37Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YuOSyRj3sXg",
+      "video_id": "YuOSyRj3sXg",
+      "title": "$30M Writer: Never write AI slop again",
+      "status": "DOWNLOADING",
+      "progress_percent": 99.9,
+      "downloaded_bytes": 980955124,
+      "total_bytes": 980955124,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "/home/beast/Projects/Softwares/Youtube_video_download/downloads/$30M Writer： Never write AI slop again [YuOSyRj3sXg].f616.mp4.part",
+      "video_details": {
+        "resolution": "1920x1080",
+        "fps": 24.0,
+        "vcodec": "vp09.00.40.08",
+        "format": "Premium"
+      },
+      "audio_details": {
+        "acodec": "opus",
+        "abr": "125.678 kbps",
+        "quality": "webm"
+      },
+      "error": null,
+      "last_updated": "2026-09-29T01:54:29Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YcAYmIFtA0o",
+      "video_id": "YcAYmIFtA0o",
+      "title": "Ollama Masterclass 2026: Run Powerful Local LLMs with Ollama (3-Hour Full Course) | CampusX",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 508801273,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "/home/beast/Projects/Softwares/Youtube_video_download/downloads/Ollama Masterclass 2026： Run Powerful Local LLMs with Ollama (3-Hour Full Course) ｜ CampusX [YcAYmIFtA0o].webm",
+      "video_details": {
+        "resolution": "1920x1080",
+        "fps": 30,
+        "vcodec": "av01.0.08M.08",
+        "format": "1080p"
+      },
+      "audio_details": {
+        "acodec": "opus",
+        "abr": "114.313 kbps",
+        "quality": "webm"
+      },
+      "error": null,
+      "last_updated": "2026-09-29T01:54:31Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6W92_t9FveA",
+      "video_id": "6W92_t9FveA",
+      "title": "Master LLM Evaluations: The Step-by-Step Playlist for 2026 | New Playlist | CampusX",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 22722508,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "/home/beast/Projects/Softwares/Youtube_video_download/downloads/Master LLM Evaluations： The Step-by-Step Playlist for 2026 ｜ New Playlist ｜ CampusX [6W92_t9FveA].webm",
+      "video_details": {
+        "resolution": "1702x1080",
+        "fps": 24.0,
+        "vcodec": "vp09.00.40.08",
+        "format": "Premium"
+      },
+      "audio_details": {
+        "acodec": "opus",
+        "abr": "108.729 kbps",
+        "quality": "webm"
+      },
+      "error": null,
+      "last_updated": "2026-09-29T01:54:32Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=cNF_MO82Qew",
+      "video_id": "cNF_MO82Qew",
+      "title": "Introduction to LLM Evaluations – Model Evals vs Application Evals | CampusX",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 55299800,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "/home/beast/Projects/Softwares/Youtube_video_download/downloads/Introduction to LLM Evaluations – Model Evals vs Application Evals ｜ CampusX [cNF_MO82Qew].webm",
+      "video_details": {
+        "resolution": "1920x1026",
+        "fps": 24,
+        "vcodec": "av01.0.08M.08",
+        "format": "1080p"
+      },
+      "audio_details": {
+        "acodec": "opus",
+        "abr": "108.646 kbps",
+        "quality": "webm"
+      },
+      "error": null,
+      "last_updated": "2026-09-29T01:54:34Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Pv4mkG2K_s8",
+      "video_id": "Pv4mkG2K_s8",
+      "title": "How to Evaluate LLM Applications: The Complete Workflow | CampusX",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 16503256,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "/home/beast/Projects/Softwares/Youtube_video_download/downloads/How to Evaluate LLM Applications： The Complete Workflow ｜ CampusX [Pv4mkG2K_s8].webm",
+      "video_details": {
+        "resolution": "1920x1026",
+        "fps": 24.0,
+        "vcodec": "vp09.00.40.08",
+        "format": "Premium"
+      },
+      "audio_details": {
+        "acodec": "opus",
+        "abr": "111.551 kbps",
+        "quality": "webm"
+      },
+      "error": null,
+      "last_updated": "2026-09-29T01:54:35Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DcZ-XCk-O_M",
+      "video_id": "DcZ-XCk-O_M",
+      "title": "Why Your AI Application Needs Multiple Eval Pipelines? | CampusX",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 61274434,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "/home/beast/Projects/Softwares/Youtube_video_download/downloads/Why Your AI Application Needs Multiple Eval Pipelines？ ｜ CampusX [DcZ-XCk-O_M].webm",
+      "video_details": {
+        "resolution": "1920x1026",
+        "fps": 24,
+        "vcodec": "av01.0.08M.08",
+        "format": "1080p"
+      },
+      "audio_details": {
+        "acodec": "opus",
+        "abr": "107.376 kbps",
+        "quality": "webm"
+      },
+      "error": null,
+      "last_updated": "2026-09-29T01:54:37Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=uQFLY8rQVYA",
+      "video_id": "uQFLY8rQVYA",
+      "title": "LLM Eval Methods | LLM-as-a-Judge | Reference Based Evals Vs Reference Free Evals | CampusX",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 51619202,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "/home/beast/Projects/Softwares/Youtube_video_download/downloads/LLM Eval Methods ｜ LLM-as-a-Judge ｜ Reference Based Evals Vs Reference Free Evals ｜ CampusX [uQFLY8rQVYA].webm",
+      "video_details": {
+        "resolution": "1920x1026",
+        "fps": 24.0,
+        "vcodec": "vp09.00.40.08",
+        "format": "Premium"
+      },
+      "audio_details": {
+        "acodec": "opus",
+        "abr": "103.913 kbps",
+        "quality": "webm"
+      },
+      "error": null,
+      "last_updated": "2026-09-29T01:54:38Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SahaDGzN-Bk",
+      "video_id": "SahaDGzN-Bk",
+      "title": "Offline Evals Vs Online Evals | CampusX",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 164525995,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "/home/beast/Projects/Softwares/Youtube_video_download/downloads/Offline Evals Vs Online Evals ｜ CampusX [SahaDGzN-Bk].webm",
+      "video_details": {
+        "resolution": "1920x1026",
+        "fps": 24,
+        "vcodec": "av01.0.08M.08",
+        "format": "1080p"
+      },
+      "audio_details": {
+        "acodec": "opus",
+        "abr": "102.334 kbps",
+        "quality": "webm"
+      },
+      "error": null,
+      "last_updated": "2026-09-29T01:54:40Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FPS0rIAQwzo",
+      "video_id": "FPS0rIAQwzo",
+      "title": "LLM Model Evals & Capabilities | CampusX",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 36762751,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "/home/beast/Projects/Softwares/Youtube_video_download/downloads/LLM Model Evals & Capabilities ｜ CampusX [FPS0rIAQwzo].webm",
+      "video_details": {
+        "resolution": "1920x1026",
+        "fps": 24.0,
+        "vcodec": "vp09.00.40.08",
+        "format": "Premium"
+      },
+      "audio_details": {
+        "acodec": "opus",
+        "abr": "110.376 kbps",
+        "quality": "webm"
+      },
+      "error": null,
+      "last_updated": "2026-09-29T01:54:41Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qIiU3lyjrhM",
+      "video_id": "qIiU3lyjrhM",
+      "title": "Whats is LLM Benchmarking | Benchmark Saturation vs. Contamination | CampusX",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 49840593,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "/home/beast/Projects/Softwares/Youtube_video_download/downloads/Whats is LLM Benchmarking ｜ Benchmark Saturation vs. Contamination ｜ CampusX [qIiU3lyjrhM].webm",
+      "video_details": {
+        "resolution": "1920x1026",
+        "fps": 24.0,
+        "vcodec": "vp09.00.40.08",
+        "format": "Premium"
+      },
+      "audio_details": {
+        "acodec": "opus",
+        "abr": "107.358 kbps",
+        "quality": "webm"
+      },
+      "error": null,
+      "last_updated": "2026-09-29T01:54:43Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=QSOB9lNrNj4",
+      "video_id": "QSOB9lNrNj4",
+      "title": "What are LLM Benchmarks | The Evolution of AI Knowledge Benchmarks | CampusX",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 107574158,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "/home/beast/Projects/Softwares/Youtube_video_download/downloads/What are LLM Benchmarks ｜ The Evolution of AI Knowledge Benchmarks ｜ CampusX [QSOB9lNrNj4].webm",
+      "video_details": {
+        "resolution": "1920x1026",
+        "fps": 24.0,
+        "vcodec": "vp09.00.40.08",
+        "format": "Premium"
+      },
+      "audio_details": {
+        "acodec": "opus",
+        "abr": "102.469 kbps",
+        "quality": "webm"
+      },
+      "error": null,
+      "last_updated": "2026-09-29T01:54:44Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SoZPmKb5uGc",
+      "video_id": "SoZPmKb5uGc",
+      "title": "How to Use LLM Leaderboards | CampusX",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 74454575,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "/home/beast/Projects/Softwares/Youtube_video_download/How to Use LLM Leaderboards ｜ CampusX [SoZPmKb5uGc].mp4",
+      "video_details": {
+        "resolution": "1920x1026",
+        "fps": 24,
+        "vcodec": "av01.0.08M.08",
+        "format": "1080p"
+      },
+      "audio_details": {
+        "acodec": "mp4a.40.2",
+        "abr": "129.474 kbps",
+        "quality": "m4a"
+      },
+      "error": null,
+      "last_updated": "2026-09-29T01:52:28Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=RG5A-W3eMHI",
+      "video_id": "RG5A-W3eMHI",
+      "title": "Selecting the Right LLM for Your AI App: Running Custom Model Evals | CampusX",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 113495132,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "/home/beast/Projects/Softwares/Youtube_video_download/Selecting the Right LLM for Your AI App： Running Custom Model Evals ｜ CampusX [RG5A-W3eMHI].mp4",
+      "video_details": {
+        "resolution": "1920x1026",
+        "fps": 24.0,
+        "vcodec": "vp09.00.40.08",
+        "format": "Premium"
+      },
+      "audio_details": {
+        "acodec": "mp4a.40.2",
+        "abr": "129.472 kbps",
+        "quality": "m4a"
+      },
+      "error": null,
+      "last_updated": "2026-09-29T01:52:30Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4zn-gSckVTQ",
+      "video_id": "4zn-gSckVTQ",
+      "title": "How to Answer \"How Do You Evaluate Your RAG App?\" in GenAI Interviews | CampusX",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 106416095,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "/home/beast/Projects/Softwares/Youtube_video_download/How to Answer ＂How Do You Evaluate Your RAG App？＂ in GenAI Interviews ｜ CampusX [4zn-gSckVTQ].mp4",
+      "video_details": {
+        "resolution": "1920x1026",
+        "fps": 24,
+        "vcodec": "av01.0.08M.08",
+        "format": "1080p"
+      },
+      "audio_details": {
+        "acodec": "mp4a.40.2",
+        "abr": "129.473 kbps",
+        "quality": "m4a"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T21:23:37Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=9Dkz3ckRj8c",
+      "video_id": "9Dkz3ckRj8c",
+      "title": "How to Test RAG Retrievers(Hands-On) | CampusX",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 103932824,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "/home/beast/Projects/Softwares/Youtube_video_download/How to Test RAG Retrievers(Hands-On) ｜ CampusX [9Dkz3ckRj8c].mp4",
+      "video_details": {
+        "resolution": "1920x1026",
+        "fps": 24.0,
+        "vcodec": "vp09.00.40.08",
+        "format": "Premium"
+      },
+      "audio_details": {
+        "acodec": "mp4a.40.2",
+        "abr": "129.472 kbps",
+        "quality": "m4a"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T21:23:38Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=PATGn2XhmCY",
+      "video_id": "PATGn2XhmCY",
+      "title": "Evaluating RAG: Testing the Generator & Full Pipeline with the RAG Triad | CampusX",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 79114541,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "/home/beast/Projects/Softwares/Youtube_video_download/Evaluating RAG： Testing the Generator & Full Pipeline with the RAG Triad ｜ CampusX [PATGn2XhmCY].mp4",
+      "video_details": {
+        "resolution": "1920x1026",
+        "fps": 30.0,
+        "vcodec": "vp09.00.40.08",
+        "format": "Premium"
+      },
+      "audio_details": {
+        "acodec": "mp4a.40.2",
+        "abr": "129.472 kbps",
+        "quality": "m4a"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T21:23:40Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=nlyxlKD5cvU",
+      "video_id": "nlyxlKD5cvU",
+      "title": "Mastering G-Eval: The Deterministic LLM-as-a-Judge Framework Explained | CampusX",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 231963938,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "/home/beast/Projects/Softwares/Youtube_video_download/Mastering G-Eval： The Deterministic LLM-as-a-Judge Framework Explained ｜ CampusX [nlyxlKD5cvU].mp4",
+      "video_details": {
+        "resolution": "1920x1026",
+        "fps": 25,
+        "vcodec": "av01.0.08M.08",
+        "format": "1080p"
+      },
+      "audio_details": {
+        "acodec": "mp4a.40.2",
+        "abr": "129.472 kbps",
+        "quality": "m4a"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T21:23:41Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=uHulfbxXnSU",
+      "video_id": "uHulfbxXnSU",
+      "title": "Securing Your RAG Application: Testing for Toxicity, Leakage & Scope Drift | CampusX",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 253764343,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "/home/beast/Projects/Softwares/Youtube_video_download/Securing Your RAG Application： Testing for Toxicity, Leakage & Scope Drift ｜ CampusX [uHulfbxXnSU].mp4",
+      "video_details": {
+        "resolution": "1920x1026",
+        "fps": 25,
+        "vcodec": "av01.0.08M.08",
+        "format": "1080p"
+      },
+      "audio_details": {
+        "acodec": "mp4a.40.2",
+        "abr": "129.472 kbps",
+        "quality": "m4a"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T21:23:43Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kuTgQM9zhq0",
+      "video_id": "kuTgQM9zhq0",
+      "title": "RAG Operational Evals: Building Faster & Cheaper RAG Systems | CampusX",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 227458537,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "/home/beast/Projects/Softwares/Youtube_video_download/RAG Operational Evals： Building Faster & Cheaper RAG Systems ｜ CampusX [kuTgQM9zhq0].mp4",
+      "video_details": {
+        "resolution": "1920x1026",
+        "fps": 25,
+        "vcodec": "av01.0.08M.08",
+        "format": "1080p"
+      },
+      "audio_details": {
+        "acodec": "mp4a.40.2",
+        "abr": "129.472 kbps",
+        "quality": "m4a"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T21:23:45Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Aov5QczE3Vo",
+      "video_id": "Aov5QczE3Vo",
+      "title": "Unknown Title",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 0,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "",
+      "video_details": {
+        "resolution": "N/A",
+        "fps": null,
+        "vcodec": "N/A",
+        "format": "N/A"
+      },
+      "audio_details": {
+        "acodec": "N/A",
+        "abr": "N/A",
+        "quality": "N/A"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T20:35:37Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wON2L2ZvKpE",
+      "video_id": "wON2L2ZvKpE",
+      "title": "Unknown Title",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 0,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "",
+      "video_details": {
+        "resolution": "N/A",
+        "fps": null,
+        "vcodec": "N/A",
+        "format": "N/A"
+      },
+      "audio_details": {
+        "acodec": "N/A",
+        "abr": "N/A",
+        "quality": "N/A"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T20:35:37Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pucxyDS2lG4",
+      "video_id": "pucxyDS2lG4",
+      "title": "Unknown Title",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 0,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "",
+      "video_details": {
+        "resolution": "N/A",
+        "fps": null,
+        "vcodec": "N/A",
+        "format": "N/A"
+      },
+      "audio_details": {
+        "acodec": "N/A",
+        "abr": "N/A",
+        "quality": "N/A"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T20:35:37Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DNuD3Ia8qHM",
+      "video_id": "DNuD3Ia8qHM",
+      "title": "Unknown Title",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 0,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "",
+      "video_details": {
+        "resolution": "N/A",
+        "fps": null,
+        "vcodec": "N/A",
+        "format": "N/A"
+      },
+      "audio_details": {
+        "acodec": "N/A",
+        "abr": "N/A",
+        "quality": "N/A"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T20:35:37Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=whXs1RaQIDA",
+      "video_id": "whXs1RaQIDA",
+      "title": "Unknown Title",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 0,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "",
+      "video_details": {
+        "resolution": "N/A",
+        "fps": null,
+        "vcodec": "N/A",
+        "format": "N/A"
+      },
+      "audio_details": {
+        "acodec": "N/A",
+        "abr": "N/A",
+        "quality": "N/A"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T20:35:37Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=B09h2yiuoPM",
+      "video_id": "B09h2yiuoPM",
+      "title": "Unknown Title",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 0,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "",
+      "video_details": {
+        "resolution": "N/A",
+        "fps": null,
+        "vcodec": "N/A",
+        "format": "N/A"
+      },
+      "audio_details": {
+        "acodec": "N/A",
+        "abr": "N/A",
+        "quality": "N/A"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T20:35:37Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2b4f8idth_s",
+      "video_id": "2b4f8idth_s",
+      "title": "Unknown Title",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 0,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "",
+      "video_details": {
+        "resolution": "N/A",
+        "fps": null,
+        "vcodec": "N/A",
+        "format": "N/A"
+      },
+      "audio_details": {
+        "acodec": "N/A",
+        "abr": "N/A",
+        "quality": "N/A"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T20:35:37Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4N8WadMsdmI",
+      "video_id": "4N8WadMsdmI",
+      "title": "Unknown Title",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 0,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "",
+      "video_details": {
+        "resolution": "N/A",
+        "fps": null,
+        "vcodec": "N/A",
+        "format": "N/A"
+      },
+      "audio_details": {
+        "acodec": "N/A",
+        "abr": "N/A",
+        "quality": "N/A"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T20:35:37Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7W7CHj9QE84",
+      "video_id": "7W7CHj9QE84",
+      "title": "Unknown Title",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 0,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "",
+      "video_details": {
+        "resolution": "N/A",
+        "fps": null,
+        "vcodec": "N/A",
+        "format": "N/A"
+      },
+      "audio_details": {
+        "acodec": "N/A",
+        "abr": "N/A",
+        "quality": "N/A"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T20:35:37Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8ZC1G1ezN5o",
+      "video_id": "8ZC1G1ezN5o",
+      "title": "Unknown Title",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 0,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "",
+      "video_details": {
+        "resolution": "N/A",
+        "fps": null,
+        "vcodec": "N/A",
+        "format": "N/A"
+      },
+      "audio_details": {
+        "acodec": "N/A",
+        "abr": "N/A",
+        "quality": "N/A"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T20:35:37Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Jr4BgrIKQXw",
+      "video_id": "Jr4BgrIKQXw",
+      "title": "Unknown Title",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 0,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "",
+      "video_details": {
+        "resolution": "N/A",
+        "fps": null,
+        "vcodec": "N/A",
+        "format": "N/A"
+      },
+      "audio_details": {
+        "acodec": "N/A",
+        "abr": "N/A",
+        "quality": "N/A"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T20:35:37Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MNNfat_QP0E",
+      "video_id": "MNNfat_QP0E",
+      "title": "Unknown Title",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 0,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "",
+      "video_details": {
+        "resolution": "N/A",
+        "fps": null,
+        "vcodec": "N/A",
+        "format": "N/A"
+      },
+      "audio_details": {
+        "acodec": "N/A",
+        "abr": "N/A",
+        "quality": "N/A"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T20:35:37Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=t_8L-TKMq2s",
+      "video_id": "t_8L-TKMq2s",
+      "title": "Unknown Title",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 0,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "",
+      "video_details": {
+        "resolution": "N/A",
+        "fps": null,
+        "vcodec": "N/A",
+        "format": "N/A"
+      },
+      "audio_details": {
+        "acodec": "N/A",
+        "abr": "N/A",
+        "quality": "N/A"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T20:35:37Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=GvgqDSnpRQM",
+      "video_id": "GvgqDSnpRQM",
+      "title": "Unknown Title",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 0,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "",
+      "video_details": {
+        "resolution": "N/A",
+        "fps": null,
+        "vcodec": "N/A",
+        "format": "N/A"
+      },
+      "audio_details": {
+        "acodec": "N/A",
+        "abr": "N/A",
+        "quality": "N/A"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T20:35:37Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=fIc_VEQ7Vo0",
+      "video_id": "fIc_VEQ7Vo0",
+      "title": "Unknown Title",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 0,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "",
+      "video_details": {
+        "resolution": "N/A",
+        "fps": null,
+        "vcodec": "N/A",
+        "format": "N/A"
+      },
+      "audio_details": {
+        "acodec": "N/A",
+        "abr": "N/A",
+        "quality": "N/A"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T20:35:37Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=V4DDt30Aat4",
+      "video_id": "V4DDt30Aat4",
+      "title": "Unknown Title",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 0,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "",
+      "video_details": {
+        "resolution": "N/A",
+        "fps": null,
+        "vcodec": "N/A",
+        "format": "N/A"
+      },
+      "audio_details": {
+        "acodec": "N/A",
+        "abr": "N/A",
+        "quality": "N/A"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T20:35:37Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=07718Vcwcyc",
+      "video_id": "07718Vcwcyc",
+      "title": "Unknown Title",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 0,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "",
+      "video_details": {
+        "resolution": "N/A",
+        "fps": null,
+        "vcodec": "N/A",
+        "format": "N/A"
+      },
+      "audio_details": {
+        "acodec": "N/A",
+        "abr": "N/A",
+        "quality": "N/A"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T20:35:37Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=XDgC4FMftpg",
+      "video_id": "XDgC4FMftpg",
+      "title": "Unknown Title",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 0,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "",
+      "video_details": {
+        "resolution": "N/A",
+        "fps": null,
+        "vcodec": "N/A",
+        "format": "N/A"
+      },
+      "audio_details": {
+        "acodec": "N/A",
+        "abr": "N/A",
+        "quality": "N/A"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T20:35:37Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=OE63BYWdqC4",
+      "video_id": "OE63BYWdqC4",
+      "title": "Unknown Title",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 0,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "",
+      "video_details": {
+        "resolution": "N/A",
+        "fps": null,
+        "vcodec": "N/A",
+        "format": "N/A"
+      },
+      "audio_details": {
+        "acodec": "N/A",
+        "abr": "N/A",
+        "quality": "N/A"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T20:35:37Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=RQbmXxU2dkg",
+      "video_id": "RQbmXxU2dkg",
+      "title": "Unknown Title",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 0,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "",
+      "video_details": {
+        "resolution": "N/A",
+        "fps": null,
+        "vcodec": "N/A",
+        "format": "N/A"
+      },
+      "audio_details": {
+        "acodec": "N/A",
+        "abr": "N/A",
+        "quality": "N/A"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T20:35:37Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7nJdEXpvi1g",
+      "video_id": "7nJdEXpvi1g",
+      "title": "Unknown Title",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 0,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "",
+      "video_details": {
+        "resolution": "N/A",
+        "fps": null,
+        "vcodec": "N/A",
+        "format": "N/A"
+      },
+      "audio_details": {
+        "acodec": "N/A",
+        "abr": "N/A",
+        "quality": "N/A"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T20:35:37Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7hakGJU9xco",
+      "video_id": "7hakGJU9xco",
+      "title": "Unknown Title",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 0,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "",
+      "video_details": {
+        "resolution": "N/A",
+        "fps": null,
+        "vcodec": "N/A",
+        "format": "N/A"
+      },
+      "audio_details": {
+        "acodec": "N/A",
+        "abr": "N/A",
+        "quality": "N/A"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T20:35:37Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=x9-F6dbCIHw",
+      "video_id": "x9-F6dbCIHw",
+      "title": "Unknown Title",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 0,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "",
+      "video_details": {
+        "resolution": "N/A",
+        "fps": null,
+        "vcodec": "N/A",
+        "format": "N/A"
+      },
+      "audio_details": {
+        "acodec": "N/A",
+        "abr": "N/A",
+        "quality": "N/A"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T20:35:37Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=gK7lUK0711E",
+      "video_id": "gK7lUK0711E",
+      "title": "Unknown Title",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 0,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "",
+      "video_details": {
+        "resolution": "N/A",
+        "fps": null,
+        "vcodec": "N/A",
+        "format": "N/A"
+      },
+      "audio_details": {
+        "acodec": "N/A",
+        "abr": "N/A",
+        "quality": "N/A"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T20:35:37Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=18TknKGC7tY",
+      "video_id": "18TknKGC7tY",
+      "title": "Unknown Title",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 0,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "",
+      "video_details": {
+        "resolution": "N/A",
+        "fps": null,
+        "vcodec": "N/A",
+        "format": "N/A"
+      },
+      "audio_details": {
+        "acodec": "N/A",
+        "abr": "N/A",
+        "quality": "N/A"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T20:35:37Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=CyRQJBBVI7g",
+      "video_id": "CyRQJBBVI7g",
+      "title": "Unknown Title",
+      "status": "PENDING",
+      "progress_percent": 0.0,
+      "downloaded_bytes": 0,
+      "total_bytes": 0,
+      "speed": "0 B/s",
+      "eta": "--:--",
+      "output_path": "",
+      "video_details": {
+        "resolution": "N/A",
+        "fps": null,
+        "vcodec": "N/A",
+        "format": "N/A"
+      },
+      "audio_details": {
+        "acodec": "N/A",
+        "abr": "N/A",
+        "quality": "N/A"
+      },
+      "error": null,
+      "last_updated": "2026-09-28T20:35:37Z"
+    }
+  ]
+}

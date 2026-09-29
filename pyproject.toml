@@ -1,0 +1,12 @@
+[project]
+name = "youtube-video-download"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "google-api-python-client>=2.200.0",
+    "google-auth-httplib2>=0.4.2",
+    "google-auth-oauthlib>=1.4.1",
+    "python-dotenv>=1.2.3",
+    "rich>=15.0.0",
+    "yt-dlp>=2026.8.19",
+]

@@ -1,0 +1,29 @@
+{
+  "output_directory": "./downloads",
+  "playlists": {
+    // The private playlists will go here
+    // Needs Google OAuth mechanisim and OAuth clients setup to be fetched
+    // Change the list according to your needs
+    "private_playlists": [
+      "Education",
+      "Useful content"
+    ],
+    "public_playlists": [
+      // Public playlists will go here
+      "https://www.youtube.com/playlist?list=PLBCF2DAC6FFB574DE"
+    ]
+  },
+  "default_format": {
+    "video_codec": "mp4",
+    "video_quality": "1080",
+    "audio_codec": "m4a",
+    "audio_quality": "192"
+  },
+  "fallback_format": {
+    "video_codec": "best",
+    "video_quality": "best",
+    "audio_codec": "best",
+    "audio_quality": "best"
+  },
+  "download_audio_only": false
+}

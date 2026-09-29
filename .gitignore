@@ -1,0 +1,4 @@
+.venv
+downloads
+.env
+__pycache__token.json
